@@ -2,7 +2,9 @@
 This repository demonstrates basic socket communication with Python scripts:
 
 `server.py`: Listens for connections and sends a welcome message.
+
 `client.py`: Connects to the server and receives the message.
+
 These scripts introduce sockets, a core concept in network programming.
 
 ## Sockets
